@@ -1,21 +1,33 @@
-<h2 align="left"> Hi I'm Vinal 👋</h2>
+# Hi, I'm Vinal 👋
 
-###
+Data Engineer • MS CS @ Northeastern University • Working in Human-Subject Research
 
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhsZmF2Z212ZDc2bmtlOHVvNmxsajVkYmp5bzVqY2Z3emo4bjJrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.gif"  />
+<!-- Optional hero GIF (keep small, add alt text, and control width) -->
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJtcWFwODNub2dya2kwdTF5N2piMGR5Znd5c3ZvMHBweWhidnV2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" alt="Data animation" width="260" height="260" />
 
-- 📚 I’m currently a Computer Science grad student at Northeastern University</br>
+## About
 
-- 👩🏻‍💻 Data Engineer by heart, soul and mind</br>
+- I’m a Computer Science graduate student at Northeastern University.  
+- Data Engineer at heart—I love building reliable, scalable data systems.  
+- Currently working in Human-Subject Research, bridging data rigor with research impact.  
+- Balancing the logic of technology with the calm of nature—innovation and serenity go hand in hand.  
+- Pronouns: She/Her  
+- Fun fact: I enjoy learning scientific names and origins of plants.  
 
-- 🤔 Currently working in the field of Human Subject Research</br>
+## Skills
 
-- 🌿 Balancing the **logic of technology** with the **calm of nature**—because innovation and serenity go hand in hand</br>
+<!-- Keep this honest and concise—remove or add as appropriate -->
+- Languages: Python, SQL, JavaScript
+- ETL : IBM Infosphere DataStage, SSIS, IBM MDM
+- Data & Orchestration: Apache Spark, Airflow, Autosys, TWS
+- Streaming & Messaging: Kafka, MQueue(NRT)
+- Cloud & Infra: AWS (S3, Glue, Lambda), Docker, Firestore
+- Databases/Warehouses: Postgres, MySQL, Oracle, MongoDB, Redis
 
-- 😄 Pronouns: She/Her</br>
+## What I’m exploring
 
-- ⚡ Fun fact: I love learning scientific names, species and origin of plants around</br>
-###
+- Event-driven architectures, data contracts, and column-level lineage.  
+- Efficient, testable transformations and CI for analytics engineering.
 
 ###
 
