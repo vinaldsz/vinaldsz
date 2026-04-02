@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinal+%F0%9F%91%8B;Data+Engineer+%7C+Pipeline+Builder;I+turned+a+6-hour+job+into+36+minutes+%E2%9A%A1;MS+CS+%40+Northeastern+%7C+TA+%26+RA;Bay+Area+%E2%80%A2+Available+May+2026" alt="Typing SVG" />
 
-**Open to Data Engineering roles starting May 2026**
+**Open to Data/AI Engineering roles starting June 2026**
 &nbsp;•&nbsp; dsouza.vi@northeastern.edu &nbsp;•&nbsp; Bay Area, CA &nbsp;•&nbsp; [Portfolio](https://vinals-portfolio.vercel.app/)
 
 </div>
@@ -77,9 +77,10 @@ Oh, and I'm a plant person. I know the scientific names. Don't test me. 🌿
 
 ---
 
-## What I'm Into Right Now 🔭
+## What I'm Into Right Now
 
 - Experimenting with LLM-backed data tools — currently building RAG pipelines on top of pgvector + PostgreSQL
+- Building AI collaboration workflows within distributed team.
 - Getting deeper into data quality frameworks: Great Expectations, dbt tests, and making validation a first-class step in the pipeline
 - Keeping up with the modern data stack (Iceberg, Unity Catalog, data contracts) so I can hit the ground running
 - Teaching Data Engineering and DBMS to 100+ students — best way I know to stay sharp on fundamentals
