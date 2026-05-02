@@ -19,7 +19,7 @@ I've spent **5+ years** in financial data engineering: migrating COBOL mainframe
 
 Oh, and I'm a plant person. I know the scientific names. Don't test me. 🌿
 
-**Pronouns:** She/Her &nbsp;•&nbsp; **Based in:** Bay Area, CA &nbsp;•&nbsp; **Available:** May 10, 2026
+**Pronouns:** She/Her &nbsp;•&nbsp; **Based in:** Bay Area, CA &nbsp;•&nbsp; **Available:** June 15, 2026
 
 ---
 
