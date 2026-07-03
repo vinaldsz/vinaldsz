@@ -17,8 +17,6 @@ Turns out, there was. A few years later I rebuilt that same kind of legacy pipel
 
 I've spent **5+ years** in financial data engineering: migrating COBOL mainframes, building batch and near-real-time ETL pipelines, modernizing legacy stacks, and obsessing over the gap between "it runs" and "it runs _well_." Now I'm at **Northeastern University** (MS CS, 4.0 GPA) going deeper on cloud, distributed systems, and AI-backed data tools, while teaching **Data Engineering & DBMS** as a TA and contributing to research as an RA. Both at once. It's a lot. I love it.
 
-Oh, and I'm a plant person. I know the scientific names. Don't test me. 🌿
-
 **Pronouns:** She/Her &nbsp;•&nbsp; **Based in:** Bay Area, CA &nbsp;•&nbsp; **Available:** June 15, 2026
 
 ---
@@ -69,7 +67,7 @@ Oh, and I'm a plant person. I know the scientific names. Don't test me. 🌿
 | Project                                                                                        | What it does                                                                                                                          | Stack                                         |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [**FMCG Delta Medallion Pipeline**](https://github.com/vinaldsz/fmcg-delta-medallion-pipeline) | Automated Bronze → Silver → Gold lakehouse with parallel execution, incremental Delta MERGE, star schema, and 10+ data quality checks | PySpark · Delta Lake · Databricks Workflows   |
-| [**AI PDF Assistant (RAG)**](https://github.com/vinaldsz/ai-pdf-assistant)                     | Agentic RAG app: ask natural-language questions, get answers grounded in your PDF content. CLI, REST API, and Streamlit UI            | LangChain · pgvector · PostgreSQL · Streamlit |
+| [**AI PDF Assistant (RAG)**](https://github.com/vinaldsz/ai-pdf-assistant)                     | Agentic RAG app: ask natural-language questions, get answers grounded in your PDF content. CLI, REST API, and Streamlit UI            | LangFuse · pgvector · PostgreSQL · Streamlit · Ragas · CloudFare R2 · HuggingFace Spaces |
 | [**Flight Delay Predictor**](https://github.com/vinaldsz/FlightDelayPrediction)                | Trained on 580K+ flight records. Improved delay detection sensitivity from 0.2% to 11.6% with custom feature engineering              | AWS SageMaker · XGBoost · Python              |
 | **Microservices + CI/CD**                                                                      | Decomposed a monolith into Dockerized microservices with blue-green deployments on ECS                                                | Docker · AWS ECS Fargate · CodePipeline       |
 | [**TinyThreads**](https://github.com/vinaldsz/TinyThreads)                                     | Peer-to-peer marketplace for kids' products with Stripe payments, Google Auth, and a community moderation workflow                    | Next.js · Stripe · Google OAuth               |
