@@ -9,13 +9,15 @@
 
 ---
 
-## My Story
+## My Story(for whoever is interest)
 
-I got hooked on data engineering the first time I watched a hand-written COBOL pipeline crawl through a mainframe overnight, and thought _there has to be a better way._
+Started out completely clueless what "data engineering" even meant... Began life as your classic ETL developer, modernizing COBOL into DataStage. Yes, I am one of those people who has stared directly into raw COBOL and tried to reverse-engineer what past-someone was thinking (wherever they are now, I hope they're doing okay!!). This was back before LLMs were a thing and IBM was still the BIG DAWG in the room.
 
-Turns out, there was. A few years later I rebuilt that same kind of legacy pipeline on **Databricks + PySpark**, cutting runtime from **6 hours down to 36 minutes** while processing 5M+ daily records. That moment crystallized it: I love the craft of taking a slow, fragile data system and making it fast, reliable, and something you can actually trust at 3am.
+Later moved into building data pipelines on AWS and Databricks. Also got a cloud migration proposal rejected with the classic "we don't trust cloud enough" line... still pre-LLM, back when that was apparently a normal thing to say in a meeting and nobody blinked.
 
-I've spent **5+ years** in financial data engineering: migrating COBOL mainframes, building batch and near-real-time ETL pipelines, modernizing legacy stacks, and obsessing over the gap between "it runs" and "it runs _well_." Now I'm at **Northeastern University** (MS CS, 4.0 GPA) going deeper on cloud, distributed systems, and AI-backed data tools, while teaching **Data Engineering & DBMS** as a TA and contributing to research as an RA. Both at once. It's a lot. I love it.
+Then ChatGPT started becoming A Thing, and I did the only reasonable thing: packed up and moved to the Bay Area to do my Master's, because I was told that's where tech dreams come true (jury's still out on that one, tbh). M.S. in CS from Northeastern, 4.0 GPA... no I'm not sorry, I said it! And somehow, at the same time, I was TAing, doing research, working at the gym, AND supervising residential security. All while doing the actual coursework. No Claude Code to lean on back in 2024/25 either, just me, five browser tabs, and pure stubbornness. Bragging rights: earned, and slightly concerning.
+
+Okay, if you've made it through my whole story and are curious about my superpowers, you should reach out. I'm pretty sure your LLM would agree!
 
 **Pronouns:** She/Her &nbsp;•&nbsp; **Based in:** Bay Area, CA &nbsp;•&nbsp; **Available:** June 15, 2026
 
