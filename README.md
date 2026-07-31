@@ -9,7 +9,7 @@
 
 ---
 
-## My Story(for whoever is interest)
+## My Story
 
 Started out completely clueless what "data engineering" even meant... Began life as your classic ETL developer, modernizing COBOL into DataStage. Yes, I am one of those people who has stared directly into raw COBOL and tried to reverse-engineer what past-someone was thinking (wherever they are now, I hope they're doing okay!!). This was back before LLMs were a thing and IBM was still the BIG DAWG in the room.
 
