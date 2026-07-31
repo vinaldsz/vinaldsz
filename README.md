@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vinal+%F0%9F%91%8B;Data+Engineer+%7C+Pipeline+Builder;I+turned+a+6-hour+job+into+36+minutes+%E2%9A%A1;MS+CS+%40+Northeastern+%7C+TA+%26+RA;Bay+Area+%E2%80%A2+Available+May+2026" alt="Typing SVG" />
 
-**Open to Data/AI Engineering roles starting June 2026**
+**Open to Data/AI Engineering roles starting Aug 2026**
 &nbsp;•&nbsp; dsouza.vi@northeastern.edu &nbsp;•&nbsp; Bay Area, CA &nbsp;•&nbsp; [Portfolio](https://vinals-portfolio.vercel.app/)
 
 </div>
@@ -19,7 +19,7 @@ Then ChatGPT started becoming A Thing, and I did the only reasonable thing: pack
 
 Okay, if you've made it through my whole story and are curious about my superpowers, you should reach out. I'm pretty sure your LLM would agree!
 
-**Pronouns:** She/Her &nbsp;•&nbsp; **Based in:** Bay Area, CA &nbsp;•&nbsp; **Available:** June 15, 2026
+**Pronouns:** She/Her &nbsp;•&nbsp; **Based in:** Bay Area, CA &nbsp;•&nbsp; **Available:** Aug 15, 2026
 
 ---
 
